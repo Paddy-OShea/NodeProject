@@ -5,7 +5,7 @@ var i4 = Number(i2) + Number(i1);
 console.log('i3', i3);
 console.log('i4', i4);
 
-/addition/
+//addition/
 console.log(2 + 2);
 // Expected output: 4
 console.log(2 + true);
@@ -15,7 +15,8 @@ console.log('hello ' + 'world');
 console.log(13 + ': Friday');
 // Expected output: "13: Friday"
 
-/multiplication/
+//multiplication/
+
 console.log('3' * '2');
 // Expected output: 6
 console.log(2 * false);
@@ -30,13 +31,13 @@ for(let i = 0; i < multi; i++){
 }
 console.log(multiStr);
 
-/divide/
+//divide/
 console.log(3 / 4);
 // Expected output: 0.75
 console.log(2 / true);
 // Expected output: 2
 
-/convert/
+//convert/
 
 var num = 24;
 var str = num.toString();
