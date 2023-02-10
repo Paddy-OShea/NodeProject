@@ -40,9 +40,9 @@ console.log(2 / true);
 //convert/
 
 var num = 24;
-var str = num.toString();
+var string = num.toString();
 console.log(num); // 24
-console.log(str); // "24" //num to str and vice versa
+console.log(string); // "24" //num to str and vice versa
 
 var obj = new Boolean(27);
 console.log(obj.toString()); //bool to str
